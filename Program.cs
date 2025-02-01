@@ -51,7 +51,11 @@ namespace ConsoleForms
                 Label label = new Label();
                 SetCommonParameters(label, size, position, title);
                 return label;
+                var newvar = new Newclass();
+                newvar.Name = "";
+    
             }
+
 
 
         }
