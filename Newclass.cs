@@ -14,7 +14,10 @@ namespace ConsoleForms
         {
             Name = name;
         }
-
+        public void DoSomething()
+        {
+            // Новый неопределенный метод
+        }
     }
 
 }
